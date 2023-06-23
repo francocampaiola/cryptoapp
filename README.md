@@ -2,5 +2,7 @@
 
 ## DWN3CV
 
-## Piñeiro, Carolina
-## Campaiola, Franco
+## Integrantes
+
+Piñeiro, Carolina
+Campaiola, Franco
